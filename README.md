@@ -10,3 +10,4 @@
 8. NQueensProblem
 9. Rat In a Maze Problem 
 10. Closest Pair Points in 2D space (Divide And Conquer Method)
+11. Minimum Cost Problem (Dynamic Programming)
