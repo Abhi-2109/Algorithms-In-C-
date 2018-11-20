@@ -12,3 +12,4 @@
 10. Closest Pair Points in 2D space (Divide And Conquer Method)
 11. Minimum Cost Problem (Dynamic Programming)
 12. Magic Grid Problem (Dynamic Programming)
+13. Maximum Sum Rectangle Problem(Dynamic Programming)
