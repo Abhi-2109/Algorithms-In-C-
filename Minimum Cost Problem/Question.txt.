@@ -1,0 +1,8 @@
+
+There is a matrix given of size MXN and a starting point cordinate(si,sj) and we need to go to the destination(ei,ej).Each cell of the matrix is given its cost. If we travel through that cell the cost will be added and we need to minimize the cost. We can only travel diagonal right-down, down, and right.
+
+In First solution I have used Dynamic Programming and implemented it recursively
+
+In Second Solution I have used Dynamic Programming and implementd it iteratively.
+
+In third solution I have used just recursive solution whose complexity is exponential o(3^m) if M*M matrix size
