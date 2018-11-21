@@ -1,0 +1,6 @@
+Maximum SubArray Sum
+
+
+You have given a array and you need to find the maximum Sum by adding the set of continous elements
+
+Solution - Used kadane Algorithm in o(N)
