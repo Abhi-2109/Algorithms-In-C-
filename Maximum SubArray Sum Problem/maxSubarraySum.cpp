@@ -6,7 +6,7 @@ int main()
     cin >> n;
     int *arr = new int[n];
     for(int i = 0; i < n ;i++)
-        cin >> a[i];
+        cin >> arr[i];
     int maxSum=INT_MIN,currentSum = 0;
 
     // This is also called kadane Algorithm
